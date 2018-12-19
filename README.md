@@ -1,2 +1,2 @@
 # Adsoft
-This is an AI to show ads to targeted age group.
+This is an AI to show pictures to targeted age group.
